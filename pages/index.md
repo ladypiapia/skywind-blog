@@ -1,13 +1,13 @@
 ---
-title: Doctor Wu
+title: Skywind-凌风
 description: About me
 image: https://doctorwu.me/og.png
 decorator: true
 ---
 
-> "The Doctor will see you now."
+> "凌风逈秀，响振虚谷。"
 
-Hey, I am Doctor Wu, an open source enthusiast.<br>
+你好，我是凌风。<br>
 
 Working at {Moego|https://github.com/MoeGolibrary}<br>
 Core team member of {VueUse|https://github.com/vueuse/vueuse}, Collaborator of {Vue Vapor|https://github.com/vuejs/core-vapor}<br>
